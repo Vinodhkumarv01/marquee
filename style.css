@@ -1,0 +1,9 @@
+.one{
+    padding-left: 100px;
+    display: inline-block;
+}
+
+.img{
+    display: flex;
+    flex-direction: row;
+}
